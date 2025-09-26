@@ -32,22 +32,27 @@ MONGO_URI = {your_secret_key}
 
 
 5. start the server
-//
+
+
 npm run dev (or) npm start
-//
+
+
 
 6. navigate to frontend
 
-//
+
 cd watchlist-app/frontend
-//
+
+
 
 6.install dependencies
-//
+
 npm install
-//
+
+
 
 7. start the react native app
-//
+
+
 npx expo start
-//
+
