@@ -9,22 +9,27 @@ It includes:
 
 
 1. clone the repository
-//
+
 git clone https://github.com/DAMABHANUPRAKASH/watchlist-app.git
+
+
 cd watchlist-app/backend
-//
+
 
 2. Install Dependencies
-//
+
 npm install
+
 npm install mongoose
-//
+
 
 4. create (.env)dotenv file
-//
+
+
 PORT = {port}
+
 MONGO_URI = {your_secret_key}
-//
+
 
 5. start the server
 //
